@@ -3,7 +3,7 @@ import { Category } from '@modules/cars/model/Category';
 import {
   ICategoriesRepository,
   ICreateCategoryDTO,
-} from './ICategoriesRepository';
+} from '../ICategoriesRepository';
 
 // Singleton = apenas uma instância
 
